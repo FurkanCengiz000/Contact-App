@@ -1,66 +1,88 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Contact App
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+#### I developed Contact app. This app about companies and contact of companies. The authentication side i used Fortify and the mail side i used Mailtrap.
 
-## About Laravel
+## Home Page
+![Home-1](https://user-images.githubusercontent.com/126884885/227995344-b4430fce-e994-4c20-a372-23df22a04fef.png)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<br />
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+![Home-2](https://user-images.githubusercontent.com/126884885/227995570-e25084f8-55a2-4c56-8428-e0e2658cc4cb.png)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+<br/>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Login Page
+![Login](https://user-images.githubusercontent.com/126884885/227996056-5ed29cea-c1cf-4a71-b394-8bacbc564457.png)
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<br/>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Register Page
 
-## Laravel Sponsors
+![Register-2](https://user-images.githubusercontent.com/126884885/227996928-700595b1-faa7-4a97-88e6-443699cc1d20.png)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<br />
 
-### Premium Partners
+![Register-3](https://user-images.githubusercontent.com/126884885/227997171-8b8fe22b-578e-4204-b2fb-fffcfc4c3fae.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+<br />
 
-## Contributing
+![Register-4](https://user-images.githubusercontent.com/126884885/227997631-fd925a45-aa9c-48c5-acb3-568facd9aec3.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<br/>
 
-## Code of Conduct
+## Companies Page
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+![Companies-1](https://user-images.githubusercontent.com/126884885/227998156-76179610-4e6b-4c84-9500-6b0eca1c7269.png)
 
-## Security Vulnerabilities
+<br />
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+![Companies-show](https://user-images.githubusercontent.com/126884885/227998609-a2505e7b-4b77-45ab-b6ef-1c8d613bbadf.png)
 
-## License
+<br />
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![Companies-edit](https://user-images.githubusercontent.com/126884885/227998723-6fc943ae-2e42-4ad1-bf5c-463410cc88ac.png)
+
+<br/>
+
+## Contacts Page
+
+![Contacts-1](https://user-images.githubusercontent.com/126884885/227999091-7e90c599-fa40-4354-acd4-65fb3b95481b.png)
+
+<br />
+
+![Contacts-2](https://user-images.githubusercontent.com/126884885/227999210-9512741d-d012-4944-9011-c48ee64c5e22.png)
+
+<br />
+
+![Contacts-3](https://user-images.githubusercontent.com/126884885/227999301-33dece5b-b0f0-41f2-8e9c-2c6a4491fa86.png)
+
+<br />
+
+![Contacts-4](https://user-images.githubusercontent.com/126884885/227999375-d99a82c5-79aa-4a12-a20b-5d28eaffeaa3.png)
+
+<br />
+
+![Contacts-show](https://user-images.githubusercontent.com/126884885/228000076-bd861a08-50b1-43f8-83fb-d281fd657270.png)
+
+<br />
+
+![Contacts-edit](https://user-images.githubusercontent.com/126884885/228000165-765ae793-4986-43db-bcd8-340ff5ee2485.png)
+
+<br />
+
+![Contacts-new](https://user-images.githubusercontent.com/126884885/228000249-0762282d-8399-435a-b515-d03f3341e3f9.png)
+
+<br />
+
+## Profile Settings Page
+
+![Dropdown](https://user-images.githubusercontent.com/126884885/228000774-01d1e5ac-918e-498c-9f9a-d8c361b01dcd.png)
+
+<br />
+
+![Profile-settings](https://user-images.githubusercontent.com/126884885/228000867-c95a4aa4-e870-4d5f-9abd-8b42e141ddb4.png)
+
+<br />
+
+![PasswordUpdate](https://user-images.githubusercontent.com/126884885/228001036-9c74eba3-157e-4358-8177-6452cde5f72c.png)
